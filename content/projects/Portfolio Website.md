@@ -1,7 +1,7 @@
 ---
 date: '2020-04-21'
 title: 'Portfolio Website'
-github: 'https://github.com/khushnoodasif.com/portfolio-website'
+github: 'https://github.com/khushnoodasif/khushnoodasif.github.io'
 external: 'https://khushnoodasif.com'
 tech:
   - HTML
