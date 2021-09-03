@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/portfolio-website',
+  pathPrefix: '/khushnoodasif.github.io',
   siteMetadata: {
     title: config.siteTitle,
     siteUrl: config.siteUrl,
